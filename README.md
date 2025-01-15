@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 - 📫 How to reach me: **vinitk81144@gmail.com**
 
 ## 🔧 Technologies & Tools
-- **Languages:** [Javascript, Typescript, Python, Solidity].
-- **Frameworks:** [ReactJs, NextJs, ExpressJs].
-- **Tools:** [Git and Github, Postman, VS Code].
+- **Languages:** Javascript, Typescript, Python, Solidity.
+- **Frameworks:** ReactJs, NextJs, ExpressJs.
+- **Tools:** Git and Github, Postman, VS Code.
 
 ## 📈 GitHub Stats
 ![Vinit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitKumar01&show_icons=true&theme=radical)
