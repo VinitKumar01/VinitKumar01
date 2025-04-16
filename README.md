@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 - 📫 How to reach me: **vinitk81144@gmail.com**
 
 ## 🔧 Technologies & Tools
-- **Languages:** Javascript, Typescript, Python, Solidity, C/C++.
-- **Frameworks:** ReactJs, NextJs, ExpressJs, Mongoose, Prisma.
+- **Languages:** Javascript, Typescript, Python, Solidity, C/C++, Rust.
+- **Frameworks:** ReactJs, NextJs.
 - **Databases:** MongoDB, Postgress.
 - **Tools:** Git and Github, Postman, VS Code.
 
