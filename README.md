@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer always looking to learn and contribute to exciting projects. Here is a bit about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **NextJs**.
+- 🌱 I’m currently learning **Rust and Devops**.
 - 👯 I’m looking to collaborate on any **MERN Stack** project.
 - 📫 How to reach me: **vinitk81144@gmail.com**
 
