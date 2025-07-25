@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 - **Languages:** Javascript, Typescript, Python, Solidity, C/C++, Lua, Rust.
 - **Frameworks:** ReactJs, NextJs.
 - **Databases:** MongoDB, Postgress.
-- **Tools:** Git and Github, Postman, VS Code.
+- **Tools:** Git and Github, Postman, Neovim, Docker, Ngrok etc.
 
 ## 📈 GitHub Stats
 ![Vinit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitKumar01&show_icons=true&theme=radical)
