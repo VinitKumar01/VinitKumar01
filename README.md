@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 - **Tools:** Git and Github, Postman, Neovim, Docker, Ngrok etc.
 
 ## 📈 GitHub Stats
-![Vinit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitKumar01&show_icons=true&theme=radical)
+![Vinit Kumar's GitHub stats](https://streak-stats.demolab.com?user=VinitKumar01&theme=dracula)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/vinit-kumar-3b4356326)
