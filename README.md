@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/vinit-kumar-3b4356326)
-- [Twitter](https://x.com/VinitKumar_01)
+- [Twitter](https://x.com/vinitxcodes)
 
 Thanks for stopping by! Have a great day!
